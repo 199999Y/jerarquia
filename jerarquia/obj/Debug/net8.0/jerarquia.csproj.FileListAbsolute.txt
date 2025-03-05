@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\jerarquia\jerarquia\obj\Debug\net8.0\jerarquia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\jerarquia\jerarquia\obj\Debug\net8.0\jerarquia.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\jerarquia\jerarquia\obj\Debug\net8.0\jerarquia.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\jerarquia\jerarquia\obj\Debug\net8.0\jerarquia.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\jerarquia\jerarquia\bin\Debug\net8.0\jerarquia.exe
+C:\Users\Lenovo\source\repos\jerarquia\jerarquia\bin\Debug\net8.0\jerarquia.deps.json
+C:\Users\Lenovo\source\repos\jerarquia\jerarquia\bin\Debug\net8.0\jerarquia.runtimeconfig.json
+C:\Users\Lenovo\source\repos\jerarquia\jerarquia\bin\Debug\net8.0\jerarquia.dll
+C:\Users\Lenovo\source\repos\jerarquia\jerarquia\bin\Debug\net8.0\jerarquia.pdb
+C:\Users\Lenovo\source\repos\jerarquia\jerarquia\obj\Debug\net8.0\jerarquia.dll
+C:\Users\Lenovo\source\repos\jerarquia\jerarquia\obj\Debug\net8.0\refint\jerarquia.dll
+C:\Users\Lenovo\source\repos\jerarquia\jerarquia\obj\Debug\net8.0\jerarquia.pdb
+C:\Users\Lenovo\source\repos\jerarquia\jerarquia\obj\Debug\net8.0\jerarquia.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\jerarquia\jerarquia\obj\Debug\net8.0\ref\jerarquia.dll
